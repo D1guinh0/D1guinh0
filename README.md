@@ -1,9 +1,9 @@
-Eai, Tudo Bem ? 👋🏼
+Hey, how are you? 👋🏼
 
-Opa! Meu nome e Diogo Henrique, Mais pode me chamar de D1guinh0, Eu sou do brasil e sou um aprendiz de programção, nos ultimos dias tenho aprendido bastante
-sobre .lua e javascript👨🏻‍💻
+Oops! My name and Diogo Henrique, More can call me D1guinh0, I am from Brazil and I am a programming apprentice, in the last days I have learned a lot
+about .lua and javascript👨🏻‍💻
 
-💻Liguagens que estou aprendendo/Ja Domino:
+IguLanguages ​​I'm learning / Ja Domino:
 
-Sobre Mim:
-📍 Brasilia|DF|Brasil
+About me:
+📍 Brasilia | DF | Brazil
