@@ -5,10 +5,15 @@
 14y
 
 <h2>📱 Social networks!</h2>
-<a href="https://www.instagram.com/diogoh_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/" target="_blank"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" target="_blank"></a>
+<a href="https://www.instagram.com/diogoh_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" target="_blank"></a>
 
 <h2>🤖 Programming languages and tools I know/Work!</h2>
-<img src="https://img.shields.io/badge/HTML-FA5F00?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS-0B79DA?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"> <img src="https://img.shields.io/badge/node.js-03DE00?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/HTML-FA5F00?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/CSS-0B79DA?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+<img src="https://img.shields.io/badge/node.js-03DE00?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 
 <h2>🧠 Programming languages and tools I am studying!</h2>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
