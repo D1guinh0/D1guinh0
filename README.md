@@ -6,22 +6,22 @@
 
 <h2>📱 Social networks!</h2>
 <div>
-<a href="https://www.instagram.com/diogoh_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/diogoh_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <h2>🤖 Programming languages and tools I know/Work!</h2>
 <div>
-<img src="https://img.shields.io/badge/HTML-FF00FF?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS-FF00FF?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JS"> <img src="https://img.shields.io/badge/Lua-FF00FF?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"> <img src="https://img.shields.io/badge/node.js-FF00FF?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"> <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/HTML-9400D3?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS-9400D3?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-9400D3?style=for-the-badge&logo=javascript&logoColor=white" alt="JS"> <img src="https://img.shields.io/badge/Lua-9400D3?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"> <img src="https://img.shields.io/badge/node.js-9400D3?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"> <img src="https://img.shields.io/badge/Python-9400D3?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 </div>
 
 <h2>🧠 Programming languages and tools I am studying!</h2>
 <div>
-<img src="https://img.shields.io/badge/c%23-FF00FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/.NET-FF00FF?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/c%23-9400D3.svg?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/.NET-9400D3?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
 </div>
 
 <h2>👀 Future programming languages and tools!</h2>
 <div>
-<img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/React_Native-FF00FF?style=for-the-badge&logo=react&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/React-9400D3?style=for-the-badge&logo=react&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/React_Native-9400D3?style=for-the-badge&logo=react&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-9400D3?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
 </div>
 	
 <h2>My story of how I became a Developer!</h2>
