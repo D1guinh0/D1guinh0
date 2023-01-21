@@ -1,5 +1,5 @@
 # About Me!
-hi! My name is Diogo Henrique, can call me D1guinh0, I am from Brazil and I am a Full-Stack Developer, but i hate Front-End...
+<h2>hi! My name is Diogo Henrique, can call me D1guinh0, I am from Brazil and I am a Full-Stack Developer, but i hate Front-End...</h2>
 
 📍 Brasilia | DF | Brazil
 14y
