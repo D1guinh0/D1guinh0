@@ -26,8 +26,8 @@
 	
 <h2>My story of how I became a Developer!</h2>
 in 2020 I was playing a lot of FiveM, a mod of Gta V, so I decided to create my own server, but for that I had to learn to code, I always liked the thing, because my father is also a developer and since when I was little I saw him working and I thought it was really cool, but I had never learned to code very well because I was very young and it was difficult for me, so I realized that now was the right time because I wanted to make my server and I already liked the thing, so I started studying the language ".Lua", I made my own server. I realized that I liked to code and I had to expand into something else if I wanted to evolve, so since then I haven't stopped studying and trying to evolve each time but that all happened in 2020 and we are already in 2023
-
-
-
+</br>
+<h2>
 PS. 
 Sorry for my bad english, I'm trying to improve
+</h2>
