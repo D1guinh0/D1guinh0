@@ -1,8 +1,6 @@
 <h1>About Me!</h1>
 <h3>hi! My name is Diogo Henrique, can call me D1guinh0, I am from Brazil and I am a Full-Stack Developer, but i hate Front-End...</h3>
-14y
-<br>
-📍 Brasilia | DF | Brazil
+<h4>14y<br>📍 Brasilia | DF | Brazil</h4>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=D1guinh0&label=Contador%20De%20Visitas&color=9400D3&style=for-the-badge" />
 </p>
