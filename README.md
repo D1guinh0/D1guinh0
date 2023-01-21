@@ -21,7 +21,7 @@
 
 <h2>👀 Future programming languages and tools!</h2>
 <div>
-<img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=black" target="_blank"><img src="https://img.shields.io/badge/React_Native-FF00FF?style=for-the-badge&logo=react&logoColor=black" target="_blank"><img src="https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=black" target="_blank">
+<img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=black" target="_blank"> <img src="https://img.shields.io/badge/React_Native-FF00FF?style=for-the-badge&logo=react&logoColor=black" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=black" target="_blank">
 </div>
 	
 <h2>My story of how I became a Developer!</h2>
