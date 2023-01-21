@@ -3,10 +3,8 @@
 14y
 <br>
 📍 Brasilia | DF | Brazil
-<p align="center"> 
-  Contador De Visitas
-  <br>
-  <img src="https://profile-counter.glitch.me/D1guinh0/count.svg" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=D1guinh0&label=Contador%20De%20Visitas&color=9400D3&style=for-the-badge" />
 </p>
 <h2>📱 Social networks!</h2>
 <div>
