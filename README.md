@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/HTML-FA5F00?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS-0B79DA?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"> <img src="https://img.shields.io/badge/node.js-03DE00?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 
 <h2>🧠 Programming languages and tools I am studying!</h2>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
 
 <h2>👀 Future programming languages and tools!</h2>
 
