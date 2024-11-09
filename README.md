@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 Sobre Mim
-Olá! Sou Diogo, mas me chamam de **D1guinh0**. Sou um desenvolvedor **full-stack** com experiência em:
+Olá! Sou Diogo, mas me chamam de **D1guinh0**.Tenho 16 anos e sou um desenvolvedor entusiasta com experiências **full-stack**, aqui estão algumas delas:
 
 ## 🛠️ Tecnologias e Ferramentas
 
