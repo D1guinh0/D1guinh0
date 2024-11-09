@@ -11,6 +11,7 @@
 ## 🌟 About Me
 My 🏅:
 [**OBI-2024-P1**](https://github.com/D1guinh0/D1guinh0/blob/main/OBI-2024.pdf)
+<br>
 Hello! I'm Diogo, but they call me **D1guinh0**. I'm 16 years old and an enthusiastic developer with **full-stack** experiences, here are some of them:
 
 ## 🛠️ Technologies and Tools
