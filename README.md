@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 Sobre Mim
-Olá! Sou Diogo, mas me chamam de **D1guinh0**. Sou um desenvolvedor **full-stack** com experiência em diversas tecnologias.
+Olá! Sou Diogo, mas me chamam de **D1guinh0**. Sou um desenvolvedor **full-stack** com experiência em:
 
 ## 🛠️ Tecnologias e Ferramentas
 
