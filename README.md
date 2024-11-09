@@ -14,8 +14,7 @@
 ---
 
 ## 🌟 Sobre Mim
-🔹 Nome: **Diogo** (mas pode me chamar de **D1guinh0**).  
-🔹 Sou um desenvolvedor **Fullstack** com paixão por resolver problemas e criar soluções elegantes.
+Olá! Sou Diogo, mas me chamam de D1guinh0. Sou um desenvolvedor full-stack com experiência em:
 
 ## 🛠️ Tecnologias e Ferramentas
 ### Linguagens
@@ -48,20 +47,10 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true"/>
-</p>
-
----
-
 ## 🌐 Onde me Encontrar
 <p>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-henrique-a-5b6352263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
